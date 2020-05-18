@@ -1,0 +1,6 @@
+framework module Pods_SFJMJFooterTestDemo_SFJMJFooterTestDemoUITests {
+  umbrella header "Pods-SFJMJFooterTestDemo-SFJMJFooterTestDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
